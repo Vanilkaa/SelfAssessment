@@ -25,16 +25,16 @@
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression
-  - interface 
+  - interface: 👂 heard
   - contract
   - module: 👂 heard
   - call stack: 👂 heard
 - Functions
   - signature
   - argument: 🖐️ used
-  - parameter
+  - parameter: 👂 heard
   - pure function
-  - lambda expression
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
@@ -46,7 +46,7 @@
   - compose
   - pipe
   - memoize
-  - wrapper
+  - wrapper: 🖐️ used
   - functor
   - monad
   - monoid
@@ -54,33 +54,33 @@
   - coroutine
 - Data structures
   - array: 🖐️ used
-  - structure
+  - structure: 🖐️ used
   - record
   - enum
-  - instance
+  - instance 👂 heard
   - object: 🖐️ used
   - class: 🖐️ used
-  - collection
-  - set
-  - hash table
-  - linked list
+  - collection: 👂 heard
+  - set: 🖐️ used
+  - hash table: 👂 heard
+  - linked list: 🖐️ used
   - doubly list
   - unrolled list
-  - circular list
-  - queue
-  - stack
+  - circular list: 👂 heard
+  - queue: 👂 heard
+  - stack: 👂 heard
   - deque
-  - tree
-  - graph
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator: 🖐️ used
-  - mutable state
-  - immutable state
-  - serialization
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 👂 heard
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
-  - transpiler
-  - linter
+  - transpiler: 👂 heard
+  - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used
   - garbage collection
@@ -89,17 +89,17 @@
   - antipatterns: 👂 heard
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
-  - magic numbers
+  - magic numbers: 👂 heard
   - hardcode: 🖐️ used
   - complexity: 👂 heard
   - decomposition
   - spaghetti: 👂 heard
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception: 👂 heard
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
+  - duplicate code: 👂 heard
+  - exception: 🖐️ used
   - return early
   - unittest
   - git: 🖐️ used
