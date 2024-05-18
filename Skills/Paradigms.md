@@ -17,28 +17,28 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor: 🖐️ used
   - new
-  - Static method
-  - Method
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 👂 heard
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: 👂 heard
   - Encapsulation
-  - Hidden class
+  - Hidden class: 👂 heard
   - Object form
-  - instance
+  - instance: 👂 heard
   - Introspection
   - Reflection
 - Patterns
